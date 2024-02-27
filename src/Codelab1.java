@@ -2,7 +2,7 @@ import java.time.LocalDate;
 import java.time.Period;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
-public class Main {
+public class Codelab1 {
     public static void main(String[] args) {
         String nama;
         char jk;
